@@ -1,40 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "name": "Prathima",
-      "email": "prathima@gmail.ca",
-      "phone": "647-764-0009"
-    },
-    {
-      "id": 2,
-      "name": "ParsaPrathima",
-      "email": "parsa@gmail.ca",
-      "phone": "845743359"
-    },
-    {
-      "name": "Sai",
-      "email": "sai@gmail.com",
-      "phone": "94583045",
-      "id": 3
-    },
-    {
-      "name": "Dhruv",
-      "email": "dhruv@gmail.com",
-      "phone": "3839843795",
-      "id": 4
-    },
-    {
-      "name": "CheckingId",
-      "email": "id@gmail.com",
-      "phone": "9458934",
-      "id": 6
-    },
-    {
-      "name": "PrathimaParsa",
-      "email": "parsa@gmail.com",
-      "phone": "8347593485",
-      "id": 7
     }
   ],
   "comments": [
