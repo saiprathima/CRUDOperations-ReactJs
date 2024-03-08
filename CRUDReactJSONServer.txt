@@ -1,29 +1,3 @@
-crud json server reactjs
----------------------------
-first create react project
-
-create-react-app employeejson
-or
-npx create-react-app employeejson
-
-open employeejson in vscode
-and run
-npm start
-
-install react-router-dom
-npm install react-router-dom
-
-install bootstrap
-npm install bootstrap
-
-
-install json server
-npm install -g json-server
-
-
-run json server
-npx json-server --watch db.json
-
 
 EmpListing.js
 ---------------------
@@ -108,6 +82,7 @@ const EmpListing = () => {
 }
 
 export default EmpListing;
+
 ----------------------
 EmpCreate.js
 ---------------------
