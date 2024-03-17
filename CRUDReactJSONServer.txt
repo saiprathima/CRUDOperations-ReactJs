@@ -1,4 +1,4 @@
-
+----------First JS file with Add new button and shows list of employees -----------------
 EmpListing.js
 ---------------------
 import { useEffect, useState } from "react";
@@ -84,6 +84,7 @@ const EmpListing = () => {
 export default EmpListing;
 
 ----------------------
+---------- EmpCreate is to create new entries -----------------
 EmpCreate.js
 ---------------------
 import { useState } from "react";
