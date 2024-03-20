@@ -3,11 +3,11 @@ About-
 This CRUD operation with React is an attempt to mimic the Add to Cart feature from any shopping site. 
 
 How it Works-
-1. Add new employee data by clicking on Add New button on top. 
-2. Add New screen opens with ID, Name, email and Phone options. These details once entered are saved into db.json file
-3. For every entry delete button gets enabled. Once if an entry is deleted from the home screen, it gets deleted from the db.json at the same time as well.
+1. Add new employee data by clicking on the Add New button on top. 
+2. Add New screen opens with ID, Name, email, and Phone options. These details once entered are saved into the db.json file
+3. For every entry delete button gets enabled. Once an entry is deleted from the home screen, it gets deleted from the db.json at the same time as well.
 
-The functionality in this application mimics Add to Cart feature from shopping sites. 
+The functionality in this application mimics the Add to Cart feature from shopping sites. 
 
 Commands and steps to install - 
 1. Open a terminal(Windows Command Prompt or PowerShell).
